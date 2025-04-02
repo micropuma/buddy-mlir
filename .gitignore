@@ -15,3 +15,7 @@
 
 # Clangd configurations
 .clangd
+
+/llvm
+
+third_party
